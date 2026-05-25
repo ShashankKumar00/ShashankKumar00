@@ -23,6 +23,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](ShashankKumar00)
 
 </div>
+
 ---
 
 # 🎖️ [ PILOT BRIEFING / PLAYER CARD ]
@@ -37,7 +38,6 @@
 | Objective : Master Core Automation -> Defense Tech & Aerospace Eng.      |
 +--------------------------------------------------------------------------+
 ```
-
 
 ---
 
@@ -57,6 +57,7 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 💻 Software & Automation
@@ -67,7 +68,7 @@
 
 </td>
 
-<td width="33%">
+<td width="50%">
 
 ## 📐 Mechanical & Design Engineering
 - Fusion 360
@@ -76,11 +77,13 @@
 
 </td>
 
-<td width="33%">
+</tr>
+</table>
 
 ---
 
-## 🏆 Verified Certifications
+# 🏆 [ VERIFIED CERTIFICATIONS ]
+
 <table>
 <tr>
 
