@@ -57,7 +57,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ## 💻 Software & Automation
 - Python & Scripting
@@ -77,6 +77,8 @@
 </td>
 
 <td width="33%">
+
+---
 
 ## 🏆 Verified Certifications
 <table>
