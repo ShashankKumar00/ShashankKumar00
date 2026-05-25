@@ -79,11 +79,33 @@
 <td width="33%">
 
 ## 🏆 Verified Certifications
-- 📜 Crash Course on Python  
-- 📜 Using Python to Interact with the Operating System  
-- 📜 Introduction to Git and GitHub  
+<table>
+<tr>
 
+<td align="center">
+<a href="./certificates/Coursera (Crash Course On Python).pdf">
+<img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</a>
+<br><br>
+<b>Crash Course on Python</b>
 </td>
+
+<td align="center">
+<a href="./certificates/Coursera (Using Python to Interact with the Operating).pdf">
+<img src="https://img.shields.io/badge/Google-Python_Operating_System-34A853?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<br><br>
+<b>Using Python to Interact with the Operating System</b>
+</td>
+
+<td align="center">
+<a href="./certificates/Coursera (Introduction to Git and GitHub).pdf">
+<img src="https://img.shields.io/badge/Google-Git_&_GitHub-EA4335?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<br><br>
+<b>Introduction to Git and GitHub</b>
+</td>
+
 </tr>
 </table>
 
