@@ -116,6 +116,16 @@
 
 ---
 
+# 📊 [ SERVER STATS ]
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShashankKumar00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankKumar00&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+---
 # 📖 [ CHRONICLES — THE ORIGIN STORY ]
 
 - ⚙️ **System Boot:** Entered the mechanical engineering track at VIT Bhopal to bridge physical systems with compute logic.
